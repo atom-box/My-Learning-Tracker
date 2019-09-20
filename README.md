@@ -1,9 +1,10 @@
-# My Learning Tracker Forked from: [@Syknapse](https://github.com/Syknapse/My-Learning-Tracker)
-
+# My Learning Tracker 
+## c
+* c
 A complete log of my web development skills, learning, resources, highlights, interests, and everything to do with my learning. It's a way to keep track, organise, and share my learning.
-
-[For my full portfolio click here](http://littlefurnace.com) 
-
+<br>
+[My portfolio](http://littlefurnace.com)<br>
+This tracker was written [by Syk Houdeib](https://github.com/Syknapse/My-Learning-Tracker)
 ----
 
 ## Skills
@@ -43,7 +44,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 ----
 
-## Learning
+## Learning  (not revised yet TODO)
 
 [//]: # (Status images)
 
@@ -116,7 +117,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 [Kent C Dodds]: https://egghead.io/instructors/kentcdodds
 [egghead.io]: https://egghead.io/
 
-### Paths
+### Paths (not revised yet TODO)
 
 | Paths with multiple resources                             |            Author            |
 |:----------------------------------------------------------|:----------------------------:|
@@ -141,17 +142,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 [P1xt]: https://github.com/P1xt
 [Shovan Chatterjee]: https://github.com/shovanch
 
-----
 
-## Highlights
-
-The most interesting of what I'm watching, reading, and doing:
-
-[**Click here for playlists and tweets. Articles, talks, tutorials, and more**](https://syknapse.github.io/My-Learning-Tracker/)
-
-And here is a chronological log of the highlights of my learning:
-
-[**My Learning Log**](https://github.com/Syknapse/My-Learning-Tracker/blob/master/log.md)
 
 ----
 
@@ -159,9 +150,9 @@ And here is a chronological log of the highlights of my learning:
 
 I'm currently interested in/excited about:
 
++ functional programming (Elm, ES5 Array funcs)
 + React
-+ JavaScript best practice
-+ Object Oriented Programming
+
 
 ----
 
@@ -175,36 +166,35 @@ It is an almost exact copy of [Ginny Fahs'](https://twitter.com/ginnyfahs) ["Thi
 * [x] Open the computer’s terminal
 * [x] Use a text editor (bonus points if you have a specific reason for choosing it)
 * [x] Use some keyboard shortcuts
-* [x] Write tests for your code
-* [x] Help another web developer with something they’re having trouble with
+* [ ] Write tests for your code
+* [ ] Help another web developer with something they’re having trouble with
 * [x] Attend an event about web development
 * [x] Follow developers you admire on social media
-* [ ] Read a book about coding
+* [x] Read a book about coding
 * [x] Open your browser console
-* [x] Get data from an API
+* [ ] Get data from an API
 * [ ] Hide API keys from the public
-* [x] Post a question on Stack Overflow
+* [ ] Post a question on Stack Overflow
 * [x] Push code to GitHub or GitLab or BitBucket
-* [ ] Speak about something web development-related at an event
+* [x] Speak about something web development-related at an event
 * [x] Complete a technical interview
 * [ ] Participate in a hackathon
 * [x] Deploy a project
 * [ ] Ship your project to a store
 * [ ] Contribute to open source
-* [x] Get paid to code
+* [ ] Get paid to code
 * [x] When people ask what you do, respond saying you’re a developer :)
 
 ----
 
 If you find this useful for your own needs you are welcome to fork a copy, customise it or even give it a star.
 
-**You can [follow me on Twitter](https://twitter.com/Syknapse "@Syknapse") or [get in touch](https://syknapse.github.io/Syk-Houdeib/#contact "My contact section | Portfolio")**
+**You can [follow me on Twitter](https://twitter.com/mistergenest "@mistergenest") or [get in touch](http://syknapse.github.io/littlefurnace.com/#contact "My contact section | Portfolio")**
 
 ----
 
 ### Acknowledgments
-
-This has been partly inspired by [Shovan Chatterjee](https://twitter.com/shovan_ch) and his wonderful [Full Stack Web Developer Path](https://github.com/shovanch/fullstack-web-developer-path) project. And of course by [Alexander Kallaway's](https://twitter.com/ka11away) very motivational [#100DaysOfCode challenge](https://github.com/Kallaway/100-days-of-code) and the great and supportive community around it.
+...
 
 ### License
 
