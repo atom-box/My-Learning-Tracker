@@ -1,10 +1,10 @@
 # My Learning Tracker 
-## c
-* c
+----
 A complete log of my web development skills, learning, resources, highlights, interests, and everything to do with my learning. It's a way to keep track, organise, and share my learning.
 <br>
 [My portfolio](http://littlefurnace.com)<br>
 This tracker was written [by Syk Houdeib](https://github.com/Syknapse/My-Learning-Tracker)
+
 ----
 
 ## Skills
