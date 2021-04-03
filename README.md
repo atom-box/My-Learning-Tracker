@@ -1,6 +1,6 @@
 # Tracker for School Nights
 ----
-A checklist for mastering Symfony (and OOP PHP in general)
+A collection of resources for mastering Symfony (and OOP PHP in general)
 <br>
 
 ----
@@ -23,22 +23,7 @@ A checklist for mastering Symfony (and OOP PHP in general)
 |**Http Kernel**                         | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**Session management**                        |                   |               |               |                  |                |                 |
 |**Build a Feed Encoder**                        |                   |               |               |                  |                |                 |
-|
-|**jQuery**                        | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**Css Grid & Flex-box**           | ![done][done]     | ![done][done] |               |                |                |                 |
-|**Responsive design**             | ![done][done]     | ![done][done] |               | ![done][done]    |                |                 |
-|**Mobile first**                  | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Progressive Enhancement**       | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Markdown**                      | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
-|**Website Building**              | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Publishing website**            | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Bootstrap**                     | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Command line**                  | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Node.js**                       | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**NPM**                           | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**Open Source Contribution**      | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**Angular 4**                     | ![done][done]     |               |               |                  |                |                 |
-|**NPM scripts**                   | ![done][done]     |               |               |                  |                |          .      |
+
 
 ----
 
@@ -47,21 +32,21 @@ A checklist for mastering Symfony (and OOP PHP in general)
 
 
 
-|   Year   | Course                                                          |                Tutor                        |
+|  Comment   | Course                                                          |                Link                        |
 |:---------|:----------------------------------------------------------------|:-------------------------------------------:|
-| Feb 2019 | [The Complete JavaScript Handbook]                              | [Flavio Copes]                              |
-| Jan 2019 | [JavaScript clean code guide]                                   | [Ryan McDermott]                            |
-| Aug 2018 | [Front-End Web Developer Nanodegree]                            | [Udacity] - Google Scholarship              |
-| Feb 2018 | [The Beginner's Guide to Reactjs]                               | [Kent C Dodds] - [egghead.io]               |
-| Jan 2018 | [Google Developer Challenge Scholarship] - Web Developer        | [Udacity]                                   |
-| 2017     | [Workflow Tools for Web Developers]                             | [Christina Truong] - [Lynda.com]            |
-| 2017     | [Learning Git and GitHub]                                       | [Ray Villalobos] - [Lynda.com]              |
-| 2017     | [CSS Essential Training 3]                                      | [Christina Truong] - [Lynda.com]            |
-| 2017     | [CSS Essential Training 2]                                      | [Christina Truong] - [Lynda.com]            |
-| 2017     | [Getting Your Website Online]                                   | [Christina Truong] - [Lynda.com]            |
-| 2017     | [Learn Enough Command Line to Be Dangerous]                     | [Michael Hartl]                             |
-| 2017     | [Basic Front End Development Projects]                          | [Free Code Camp]                            |
-| 2017     | [The Web Developer Bootcamp - Frond End]                        | Colt Steele - [Udemy]                       | |
+|  | Symfony pocket handbook                              | [Tutorials Point](https://www.tutorialspoint.com/symfony)                              |
+|   | Symfonycast phpunit                                   | []()  ]                           |
+|   | Symfonycast dependency injection                            |  []()    |
+|   | Symfonycast Doctrine                               | []()   |
+|   | Symfonycast Twig       | []()            |
+|      | W3 Schools OOP                             |  []()   |
+|      | DrupalCon Vienna 2017: Demystifying Dependency Injection     | [Jyoti Singh](https://www.youtube.com/watch?v=7SHRKIqNpUc)              |
+|      | Demystifying Dependency Injection Containers - Laracon EU 2019  | [Kai Sassnowski](https://www.youtube.com/watch?v=y7EbrV4ChJs)   |
+|      | [CSS Essential Training 2]                                      | [Christina Truong] - [Lynda.com]            |
+|      | [Getting Your Website Online]                                   | [Christina Truong] - [Lynda.com]            |
+|      | [Learn Enough Command Line to Be Dangerous]                     | [Michael Hartl]                             |
+|      | [Basic Front End Development Projects]                          | [Free Code Camp]                            |
+|      | [The Web Developer Bootcamp - Frond End]                        | Colt Steele - [Udemy]                       | |
    <br><br>
 
 
