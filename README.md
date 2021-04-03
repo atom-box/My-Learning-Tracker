@@ -11,18 +11,16 @@ A collection of resources for mastering Symfony (and OOP PHP in general)
 
 |               Skill              | 1<br>Introduction | 2<br>Basics   | 3<br>Good     | 4<br>Pretty Good | 5<br>Confident | 6<br>Awesome    |
 |:-------------------------------- |:-----------------:|:-------------:|:-------------:|:----------------:|:--------------:|:---------------:|
-|**phpunit**                         | ![done][done]     | ![done][done] | ![done][done] |                  |                |
-|**dependency injection**                          | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Doctrine ORM**                    | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Twig**                           | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**Model-View-Controller**                         | ![done][done]     |               |               |                  |                |                 |
-|**Routing**                         |                   |               |               |                  |                |                 |
-|**Error Logging**                   | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Profiler bar**                        | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Http Foundation**                  | ![done][done]     |               |               |                  |                |                 |
-|**Http Kernel**                         | ![done][done]     | ![done][done] |               |                  |                |                 |
+|**phpunit**                         | ![done][done]     | ![done][done] |   |                  |                |
+|**dependency injection**                          | ![done][done]     | ![done][done] |  |                  |                |                 |
+|**Doctrine ORM**                    | ![done][done] |  |                   |                |                 |
+|**Model-View-Controller**                         |      |               |               |                  |                |                 |
+|**Routing**                         |           ![done][done]        |               |               |                  |                |                 |
+|**Error Logging**                   |     |  |   |        |                |                 |
+|**Http Foundation**                  |      |               |               |                  |                |                 |
+|**Http Kernel**                         |     |   |               |                  |                |                 |
 |**Session management**                        |                   |               |               |                  |                |                 |
-|**Build a Feed Encoder**                        |                   |               |               |                  |                |                 |
+|**Build a Feed Encoder**                        |![done][done]   |               |               |                  |                |                 |
 
 
 ----
