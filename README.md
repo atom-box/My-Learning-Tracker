@@ -13,7 +13,7 @@ A collection of resources for mastering Symfony (and OOP PHP in general)
 |:-------------------------------- |:-----------------:|:-------------:|:-------------:|:----------------:|:--------------:|:---------------:|
 |**phpunit**                         | ![done][done]     | ![done][done] | ![done][done] |                  |                |
 |**dependency injection**                          | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Doctrine**                    | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**Doctrine ORM**                    | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**Twig**                           | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**Model-View-Controller**                         | ![done][done]     |               |               |                  |                |                 |
 |**Routing**                         |                   |               |               |                  |                |                 |
@@ -35,17 +35,17 @@ A collection of resources for mastering Symfony (and OOP PHP in general)
 |  Comment   | Course                                                          |                Link                        |
 |:---------|:----------------------------------------------------------------|:-------------------------------------------:|
 |  | Symfony pocket handbook                              | [Tutorials Point](https://www.tutorialspoint.com/symfony)                              |
-|   | Symfonycast phpunit                                   | []()  ]                           |
-|   | Symfonycast dependency injection                            |  []()    |
-|   | Symfonycast Doctrine                               | []()   |
+|   | Symfonycast phpunit  "Testing With a Bite"                                 | [Symfonycast](https://symfonycasts.com/screencast/phpunit)  ]                           |
+|   | Symfonycast dependency injection  "Services, Config & Environments"  | [Symfonycast](https://symfonycasts.com/screencast/symfony4-fundamentals)    |
+|   | Symfonycast Doctrine  (Symfony 3)    | [Symfonycast](https://symfonycasts.com/screencast/symfony3-doctrine)   |
 |   | Symfonycast Twig       | []()            |
-|      | W3 Schools OOP                             |  []()   |
+|      | W3 Schools OOP                             |  [W3](https://www.w3schools.com/php/php_oop_what_is.asp)   |
 |      | DrupalCon Vienna 2017: Demystifying Dependency Injection     | [Jyoti Singh](https://www.youtube.com/watch?v=7SHRKIqNpUc)              |
 |      | Demystifying Dependency Injection Containers - Laracon EU 2019  | [Kai Sassnowski](https://www.youtube.com/watch?v=y7EbrV4ChJs)   |
-|      | [CSS Essential Training 2]                                      | [Christina Truong] - [Lynda.com]            |
-|      | [Getting Your Website Online]                                   | [Christina Truong] - [Lynda.com]            |
-|      | [Learn Enough Command Line to Be Dangerous]                     | [Michael Hartl]                             |
-|      | [Basic Front End Development Projects]                          | [Free Code Camp]                            |
+|      | Dependency Injection Demystified Symfonyworld 2020 slides              | [Alexander Turek](https://slidr.io/derrabus/dependency-injection-demystified)           |
+|      | Symfony 4 encryption algorithms     slides         | [Grégoire Hébert](https://speakerdeck.com/gregoirehebert/with-symfony-4-dot-4-your-secrets-will-be-well-kept?slide=54)           |
+|      | A Gentle Introduction to Symfony 1.4 (19 chapter pdf)     | [official](https://symfony.com/legacy/doc/gentle-introduction)      |
+|      | My beginner guide to Symfony Udemy Course incl Fixtures, CSS, ORM  | [Aloui Mohamed Habib](https://www.udemy.com/course/symfony-4-for-beginners/)                            |
 |      | [The Web Developer Bootcamp - Frond End]                        | Colt Steele - [Udemy]                       | |
    <br><br>
 
